@@ -1,2 +1,2 @@
 
-https://VladimirZverugo.github.io/Rubbish/cv
+https://VladimirZverugo.github.io/Rubbish/index.html
